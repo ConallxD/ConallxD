@@ -10,10 +10,12 @@ Computer Vision & AI: I'm fascinated by the capabilities of machines to understa
 Simulations: Dedicated to harnessing simulations for enhancing the robustness of robotics systems under real-world conditions.
 ROS (Robot Operating System): Exploring ROS for its unparalleled robotics application development capabilities.
 VR/AR: Eager to delve into virtual and augmented reality to revolutionize human-computer interaction, especially in education and training.
+
 🌱 I’m Currently Learning
 Advancing my Python skills for complex robotics and AI applications.
 Deep diving into AI and machine learning principles for innovative applications.
 Exploring VR/AR fundamentals to integrate them into my future projects.
+
 🌟 Featured Projects
 (Here, you could include links or brief descriptions of projects you've worked on, particularly those that align with your interests mentioned above. This will provide tangible proof of your skills and passion.)
 
