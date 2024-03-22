@@ -1,4 +1,4 @@
-👋 Hi, I'm Conall O'Nians!
+👋 Hi, I'm Conall!
 
 Welcome to my GitHub profile! I'm a fresh BEng Robotics graduate passionate about merging technology with real-world applications. My journey in tech is fueled by my curiosity in computer vision, artificial intelligence, and the immersive worlds of VR/AR. I'm on a continuous quest to explore and innovate in these domains.
 
